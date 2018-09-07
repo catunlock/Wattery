@@ -11,4 +11,5 @@ This extensions requires TLP to work properly.
 
 ## Ubuntu 
 sudo apt install tlp
+
 sudo systemctl enable --now tlp
