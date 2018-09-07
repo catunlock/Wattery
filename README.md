@@ -9,6 +9,6 @@ git clone https://github.com/catunlock/Wattery.git ~/.local/share/gnome-shell/ex
 
 This extensions requires TLP to work properly.
 
-##Ubuntu 
+## Ubuntu 
 sudo apt install tlp
 sudo systemctl enable --now tlp
